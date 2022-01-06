@@ -1,2 +1,2 @@
-# MAKE-YOUR-OWN-GAME---1
-BETA version (Full version coming soon)
+# p5.play-boilerplate
+Boiler plate for p5.play
